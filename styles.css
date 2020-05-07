@@ -1,0 +1,237 @@
+body
+{
+    background-color: white;
+    margin: 0;
+    font-family: 'Concert One', cursive;
+}
+hr {
+    border-color: #FF6347;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+    width: 9%;
+    
+}
+
+
+
+.link
+{
+    background-color:#FFFACD;
+    color: #ca5116;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.content
+{
+    padding: 30px;
+    
+}
+
+.oa
+{
+    overflow: auto;
+}
+
+
+
+.header {
+    font-color : orange;
+    padding: 0 0;
+}
+
+.header-container {
+    background-color: #FFFACD;
+    padding: 15px 0;
+    
+}
+
+.header-container img
+{
+    
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid #ffd;
+    margin-left: 30px;
+}
+
+.nav
+{
+    width: auto;
+    float: right;
+    padding: 30px 0;
+    margin-right: 20px;
+    
+}
+
+.nav a
+{
+    font-family: arial;
+    font-weight : bold;
+    text-decoration: none;
+    color: #FF6347 ;
+    margin: 0 10px;
+}
+
+.nav a:hover
+{
+    color: black;
+}
+
+.name
+{
+    font-family: 'Concert One', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 35pt;
+    text-align: center;
+    color: #FF6347;
+    
+}
+
+.detail-name {
+    text-align: center;
+    color: #FF6347;
+    font-weight: 800;
+    font-size: 18pt;
+    letter-spacing: 3px;
+    font-style : italic;
+    
+}
+
+.background-name
+{
+ 
+    text-align: center;
+    margin-top: -50px;
+}
+
+
+
+.round-image img
+{
+    background-color: black;
+    width: 200px;height: 200px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 3px;
+    border-radius: 50%;
+    
+}
+
+.title
+{
+    color : black;
+    font-family:comic sans ms;
+    font-weight: bold;
+    font-size: 20pt;
+    margin-top: 16px;
+    font spacing : 3px;
+    
+}
+
+.detail-1
+{
+    color : black;
+    max-width: 720px;
+    margin: 16px auto;
+    line-height: 26px;
+}
+
+
+.profile-title
+{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24pt;
+    color : #FF6347;
+}
+
+.profile
+{
+    margin-top: 50px;
+    min-height: 160px;
+    max-width: 840px;
+    margin: 50px auto;
+    color : #FF6347;
+}
+
+.profile p
+{
+    line-height: 2;
+    color : #FF6347;
+}
+
+.kiri > div
+{
+    margin-left: 220px;
+    color : #FF6347;
+}
+
+.kanan > div
+{
+    margin-right: 220px;
+}
+
+.profile > img
+{
+    width: 150px;
+    padding: 20px;
+   
+}
+
+.kiri > img
+{
+    float: left;
+}
+
+.kanan > img
+{
+    float: right;
+}
+
+
+
+
+.footer
+{
+    background-color: #FFFACD;
+    padding: 20px;
+    
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #FF6347;;
+    font-size: 14pt;
+}
+
+
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    margin-top: 20px;
+    color: #FF6347;
+    margin: 0 50px;
+    font-size: 14pt;
+}
